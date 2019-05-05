@@ -1,5 +1,6 @@
 # TextToMorse
-A small Processing sketch that converts text messages to morse
+A small Processing sketch that converts text messages to morse.
+
 Compile and run using Processing 3.5.3
 
 This Processing sketch was a 1 afternoon project and "challenge" to myself.
